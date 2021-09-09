@@ -1,0 +1,23 @@
+.rides-cards{
+    display: flex;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 90px;
+    
+}
+.ride-card{
+    border: none;
+    margin: 20px;
+    width: 100%;
+    text-align: center;
+    border-radius: 5px;
+    background: transparent;
+    text-decoration: none;
+    color: black;
+    box-shadow: 0px 0px 4px 4px lightslategrey;
+    
+}
+.ride-card img{
+    width: 150px;
+    padding: 30px;
+}
