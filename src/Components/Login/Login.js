@@ -25,7 +25,7 @@ const Login = () => {
     }
   };
 
-  const [loggedInUser, setLoggedInUser] = useContext(UserContext);
+  const [ setLoggedInUser] = useContext(UserContext);
 
   const handleSubmit = (e) => {
     
